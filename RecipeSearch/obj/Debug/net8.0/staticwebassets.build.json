@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "UVv7ttZZuBgm+JfoLUYZ5egzz8aknVD/QXxUyCl3rTk=",
+  "Source": "RecipeSearch",
+  "BasePath": "_content/RecipeSearch",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RecipeSearch/wwwroot",
+      "Source": "RecipeSearch",
+      "ContentRoot": "/home/rwh/Documents/Kulinaria/RecipeSearch/wwwroot/",
+      "BasePath": "_content/RecipeSearch",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/rwh/Documents/Kulinaria/RecipeSearch/wwwroot/app.js",
+      "SourceId": "RecipeSearch",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/rwh/Documents/Kulinaria/RecipeSearch/wwwroot/",
+      "BasePath": "_content/RecipeSearch",
+      "RelativePath": "app.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/app.js"
+    },
+    {
+      "Identity": "/home/rwh/Documents/Kulinaria/RecipeSearch/wwwroot/index.html",
+      "SourceId": "RecipeSearch",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/rwh/Documents/Kulinaria/RecipeSearch/wwwroot/",
+      "BasePath": "_content/RecipeSearch",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/home/rwh/Documents/Kulinaria/RecipeSearch/wwwroot/style.css",
+      "SourceId": "RecipeSearch",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/rwh/Documents/Kulinaria/RecipeSearch/wwwroot/",
+      "BasePath": "_content/RecipeSearch",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/style.css"
+    }
+  ]
+}
